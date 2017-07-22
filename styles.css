@@ -1,0 +1,41 @@
+/*Refrenece of color palette https://coolors.co/fbfcfd-e8f4f7-d3dde2-546066-2e3d45*/
+.card {
+  width: 330px;
+  border: 1px solid #D3DDE2;
+  box-sizing: border-box;
+  box-shadow: 7px 7px 5px #eeeefa;
+  background-color:#E8F4F7;
+}
+.card_title {
+  margin-left: 13px;
+  color: #2E3D45;
+}
+.card_img{
+  width: 300px;
+  margin-left: 13px;
+  margin-bottom: 15px;
+
+}
+.card_content{
+  border: 1px solid #D3DDE2;
+  width: 300px;
+  box-sizing: border-box;
+  margin-left: 13px;
+  margin-bottom: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #FBFCFD;
+}
+.card_breif {
+  font-style: italic;
+}
+.card_list {
+  list-style: none;
+  padding-left:0;
+}
+.strong_content {
+  font-weight: bold;
+}
+.card_description {
+
+}
